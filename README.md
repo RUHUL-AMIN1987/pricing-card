@@ -1,3 +1,3 @@
 # React + Vite
 
- standing-simple-card-pain.surge.sh
+http://standing-simple-card-pain.surge.sh/
