@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$29/month",
+    "description": "Perfect for beginners who want access to essential gym equipment and facilities.",
+    "features": [
+      "Unlimited access to gym equipment",
+      "Locker room & shower access",
+      "Free Wi-Fi in gym area",
+      "1 personal training session per month",
+      "Open 7 days a week"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$49/month",
+     "populer": true,
+    "description": "Best for fitness enthusiasts looking for group classes and extra perks.",
+    "features": [
+      "All Basic features included",
+      "Unlimited group fitness classes (Yoga, Zumba, HIIT)",
+      "Sauna & steam room access",
+      "5 personal training sessions per month",
+      "Free fitness assessment",
+      "Priority equipment booking"
+     
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$79/month",
+    "description": "Ideal for serious athletes with full access, unlimited training, and VIP benefits.",
+    "features": [
+      "All Standard features included",
+      "Unlimited personal training sessions",
+      "Nutrition & diet consultation",
+      "Dedicated personal locker",
+      "VIP lounge & recovery zone",
+      "Massage therapy discounts",
+      "Free access to special events & workshops"
+    ]
+  }
+]
